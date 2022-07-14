@@ -1,0 +1,122 @@
+h1{
+    font-size: 70px;
+    color: chartreuse;
+}
+.pao{
+    background-color: bisque;
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-top-left-radius: 120px;
+    border-top-right-radius: 120px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 0;
+}
+.btt{
+    margin: 0;
+    background-color:yellow;
+    padding-bottom: 12px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 12px;
+    border-radius: 30px;
+    font-size: 28px;
+}
+.molho{
+    color: chartreuse;
+    background-color: rgb(233, 38, 38);
+    padding-bottom: 3px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 3px;
+    border-radius: 30px;
+    font-size: 28px;
+    margin: 0;
+}
+.ore{
+    color: yellow;
+    background-color: darkgreen;
+    padding-bottom: 3px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 3px;
+    border-radius: 30px;
+    font-size: 28px;   
+    margin: 0; 
+}
+.tom{
+    color: yellow;
+    margin:0;
+    background-color: red;
+    padding-bottom: 12px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 12px;
+    border-radius: 30px;
+    font-size: 28px
+}
+.quei{
+    margin:0;
+    background-color: gold;
+    padding-bottom: 12px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 12px;
+    border-radius: 30px;
+    font-size: 28px
+}
+.hamb{
+    font-weight:bolder;
+    color: yellow;
+    margin:0;
+    background-color: darkred;
+    padding-bottom: 25px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 25px;
+    border-radius: 30px;
+    font-size: 28px
+}
+.pre{
+    margin:0;
+    background-color: salmon;
+    padding-bottom: 6px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 6px;
+    border-radius: 30px;
+    font-size: 28px
+}
+.mai{
+    margin:0;
+    background-color:floralwhite;
+    padding-bottom: 1px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 1px;
+    border-radius: 30px;
+    font-size: 28px
+}
+.pao2{
+    background-color: bisque;
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin: 0;
+    border-bottom-left-radius: 120px;
+    border-bottom-right-radius: 120px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blueviolet;
+    text-align: center;
+    margin-top: 0;
+    font-weight: bold ;
+}
